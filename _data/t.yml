@@ -1,9 +1,9 @@
 ---
 ## Main icon
-icon: "assets/images/smart-shires-logo.png"
+icon: "/assets/images/smart-shires-logo.png"
 
 ## Social Card [1200x630]
-social-card: assets/images/favicons/social-card.png
+social-card: "/assets/images/favicons/social-card.png"
 
 ## Site name
 name:
