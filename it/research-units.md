@@ -6,4 +6,20 @@ ref: research-units
 permalink: /it/research-units
 ---
 
-Pagina "Research Units"
+### Scientific Board
+
+##### Prof. Lorem Ipsum
+Associate Professor
+University of Somewhere
+
+##### Prof. Lorem Ipsum
+Associate Professor
+University of Somewhere
+
+##### Prof. Lorem Ipsum
+Associate Professor
+University of Somewhere
+
+##### Prof. Lorem Ipsum
+Associate Professor
+University of Somewhere 
